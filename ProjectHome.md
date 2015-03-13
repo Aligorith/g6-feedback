@@ -1,0 +1,1 @@
+A portable, installation free, and easy to use Audience Response System, with Android and Laptop clients.
